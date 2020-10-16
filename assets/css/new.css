@@ -43,15 +43,6 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
 .hero {
     height: 800px;
     width: 100%;
@@ -61,6 +52,16 @@ p {
     background-position: center;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* Moved section up to match index layout */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
