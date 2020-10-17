@@ -8,3 +8,4 @@ I went ahead and change a few div tags to section, header, article and footer. I
 
 I modified css and changed the image heights and widths, the color of the font to be easier on the eyes, and shifted some of the content up the page. The jpeg was removed from the css and added to the html as an image source. 
 
+/
